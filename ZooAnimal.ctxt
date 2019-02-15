@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ZooAnimal
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ZooAnimal\ here.\r\n\r\n\ @author\ ()\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ZooAnimal()
+comment2.params=age\ weight\ height\ animal\ canSwim
+comment2.target=ZooAnimal(int,\ int,\ double,\ java.lang.String,\ boolean)
+comment3.params=
+comment3.target=void\ animalInfo()
+comment4.params=
+comment4.target=java.lang.String\ hungryAnimal()
+numComments=5
